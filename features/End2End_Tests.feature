@@ -24,12 +24,12 @@ Feature: Title of your feature
   Scenario: Customer place an order by purchasing an item from search
     Given user is on Home Page
     When he search for "dress"
-    #When choose to buy the first item
-    #When moves to checkout from mini cart
-    #When enter personal details on checkout page
-    #When select same delivery address
-    #When select payment method as "check" payment
-    #When place the order
+    When choose to buy the first item
+    When moves to checkout from mini cart
+    When enter personal details on checkout page
+    When select same delivery address
+    When select payment method as "check" payment
+    When place the order
 
   #@tag2
   #Scenario Outline: Title of your scenario outline
