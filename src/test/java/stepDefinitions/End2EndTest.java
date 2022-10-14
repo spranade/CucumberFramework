@@ -14,7 +14,7 @@ public class End2EndTest {
 
 	@Given("^user is on Home Page$")
 	public void user_is_on_Home_Page(){
-		System.setProperty("webdriver.chrome.driver","G:\\selenium\\JARS\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","D:\\selenium\\JARS\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
