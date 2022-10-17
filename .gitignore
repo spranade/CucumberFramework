@@ -1,6 +1,8 @@
-target/**
-/test-output/
-/logs/
+/target/*
+/test-output/*
+/logs/*
 /.idea/
 /.settings/
+/*.html
+/*.txt
 
