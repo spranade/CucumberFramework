@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="27.355693">
-<testcase classname="Title of your feature" name="Customer place an order by purchasing an item from search" time="27.355693">
-<system-out><![CDATA[Given user is on Home Page..................................................passed
-When he search for "dress"..................................................passed
-]]></system-out>
-</testcase>
-</testsuite>
